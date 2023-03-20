@@ -1,0 +1,15 @@
+D:\file fahri\latian\Program Console\Program Console\bin\Debug\net6.0\Program Console.exe
+D:\file fahri\latian\Program Console\Program Console\bin\Debug\net6.0\Program Console.deps.json
+D:\file fahri\latian\Program Console\Program Console\bin\Debug\net6.0\Program Console.runtimeconfig.json
+D:\file fahri\latian\Program Console\Program Console\bin\Debug\net6.0\Program Console.dll
+D:\file fahri\latian\Program Console\Program Console\bin\Debug\net6.0\Program Console.pdb
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.csproj.AssemblyReference.cache
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.AssemblyInfoInputs.cache
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.AssemblyInfo.cs
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.csproj.CoreCompileInputs.cache
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.dll
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\refint\Program Console.dll
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.pdb
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\Program Console.genruntimeconfig.cache
+D:\file fahri\latian\Program Console\Program Console\obj\Debug\net6.0\ref\Program Console.dll
